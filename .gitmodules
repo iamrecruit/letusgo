@@ -1,0 +1,27 @@
+[submodule "wangximing"]
+	path = wangximing
+	url = git@github.com:sighWang/yeoman-letusgo.git
+[submodule "wangyufei"]
+	path = wangyufei
+	url = git@github.com:sorashiro/letusgo_angularJs.git
+[submodule "zhangwei"]
+	path = zhangwei
+	url = git@github.com:lzhangwei/angular-letusgo.git
+[submodule "sukai"]
+	path = sukai
+	url = git@github.com:SnakeWorker/angular-letusgo.git
+[submodule "liyanzi"]
+	path = liyanzi
+	url = git@github.com:mumuyang1/angularjs_letusgo.git
+[submodule "xueqian"]
+	path = xueqian
+	url = git@github.com:XueQian/letusgo_angularjs.git
+[submodule "wanghuan"]
+	path = wanghuan
+	url = git@github.com:adabeauty/yemon_let_us_go.git
+[submodule "cuifugang"]
+	path = cuifugang
+	url = git@github.com:fgcui1204/letusgo_AngularJS.git
+[submodule "zhangzhihui"]
+	path = zhangzhihui
+	url = git@github.com:xiaoyanzhuzzh/angularJS_test.git
