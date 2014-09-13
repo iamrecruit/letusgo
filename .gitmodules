@@ -25,3 +25,6 @@
 [submodule "zhangzhihui"]
 	path = zhangzhihui
 	url = git@github.com:xiaoyanzhuzzh/angularJS_test.git
+[submodule "zhangyun"]
+	path = zhangyun
+	url = git@github.com:Antml/AugularJS-service.git
